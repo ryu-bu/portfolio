@@ -1,5 +1,5 @@
 # Welcome to Ryuichi's Portfolio
-<img src="./public/self.jpg" style="width:20%; border-radius:50%;">
+<img src="./.vuepress/public/self.jpg" style="width:20%; border-radius:50%;">
 
 Hello! 
 
@@ -9,14 +9,14 @@ My name is Ryuichi Ohhata, and I am a student, engineer, and hobbyist.
 <timeline/>
 
 ## Professional Experience
-<img src="./public/hpe_logo.png" style="float:right; height:80px;">
+<img src="./.vuepress/public/hpe_logo.png" style="float:right; height:80px;">
 
 ### Hewlett Packard Enterprise (Expected)
-<!-- ![An image](./public/hpe_logo.png) -->
+<!-- ![An image](./.vuepress/public/hpe_logo.png) -->
 Jun - Aug, 2021<br>
 Software Engineering Intern
 
-<img src="./public/cidarlab.png" style="float:right; height:80px;">
+<img src="./.vuepress/public/cidarlab.png" style="float:right; height:80px;">
 
 ### CIDAR LAB
 May, 2020 - <br>
@@ -30,14 +30,14 @@ Undergraduate Research Assistant
     <li>Build microservices for existing synthetic biology applications</li>
 </ul>
 
-<img src="./public/hd.png" style="float:right; height:60px;">
+<img src="./.vuepress/public/hd.png" style="float:right; height:60px;">
 
 ### Human Dynamics 
 Jan, 2021 - <br>
 Contributor
 
 
-<img src="./public/nona.jpg" style="float:right; height:120px;">
+<img src="./.vuepress/public/nona.jpg" style="float:right; height:120px;">
 
 ### Nona Research Foundation
 Feb, 2020 - <br>
@@ -50,7 +50,7 @@ Software Engineering Intern
     <li>Rehost legacy tools by using docker containers and modiftying outdated codes</li>
 </ul>
 
-<img src="./public/igem.png" style="float:right; width:120px;">
+<img src="./.vuepress/public/igem.png" style="float:right; width:120px;">
 
 ### International Genetically Engineered Machine competition (iGEM) 2020
 May - Nov, 2020<br>
@@ -62,7 +62,7 @@ Software Committee Member
     <li>Assisted teams with their GitHub repositories</li>
 </ul>
 
-<img src="./public/bu_it.png" style="float:right; width:150px;">
+<img src="./.vuepress/public/bu_it.png" style="float:right; width:150px;">
 
 ### Boston University Information Services and & Technology
 Jun, 2019 - May, 2020<br>
@@ -74,7 +74,7 @@ Web Developer Intern
     <li>Communicated with departmental faculties to assist with their websites to satisfy the requirements </li>
 </ul>
 
-<img src="./public/burpg.png" style="float:right; height:120px;">
+<img src="./.vuepress/public/burpg.png" style="float:right; height:120px;">
 
 ### Boston University Rocket Propulsion Group
 Sep, 2018 - Mar, 2020<br>

@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Ryuichi\'s Portfolio',
-    publicPath: process.env.NODE_ENV === 'production',
+    base: '/portfolio/',
     displayAllHeaders: true,
     themeConfig: {
         sidebarDepth: 2,
