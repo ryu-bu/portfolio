@@ -3,23 +3,59 @@
 
 Hello! 
 
-My name is Ryuichi Ohhata, and I am a student, engineer, and hobbyist. 
+I’m Ryuichi Ohhata, a software engineer specializing in cloud-distributed
+systems and large-scale data platforms. I design high-throughput telemetry
+pipelines and real-time analytics systems that serve millions of network
+devices. My work spans IoT, applied AI, award-winning energy research, and a
+pending patent.
 
-## Short Bio
-<timeline/>
+## Timeline
+<PortfolioTimeline />
 
 ## Professional Experience
 <img src="./.vuepress/public/hpe_logo.png" style="float:right; height:80px;">
 
-### Hewlett Packard Enterprise (Expected)
+### HPE Aruba Networking
 <!-- ![An image](./.vuepress/public/hpe_logo.png) -->
-Jun - Aug, 2021<br>
+Jun–Aug 2021<br>
 Software Engineering Intern
+
+Aug 2022–Jun 2026<br>
+Software Engineer II
+
+Jun 2026–Present<br>
+Software Engineer III
+
+<strong>Description:</strong>
+
+- Designed and scaled a distributed application visibility platform ingesting
+  telemetry from more than five million network devices using Java, Kafka,
+  Kubernetes, and ClickHouse.
+- Designed a Kafka state-store deduplication algorithm to prevent application
+  telemetry from being counted more than once across access points, switches,
+  and gateways.
+- Built a reporting and query service with GraphQL APIs and optimized
+  ClickHouse queries for time-series network metrics.
+- Extended low-latency IP allocation services in Go using Redis and ArangoDB.
+- Led multi-tenant configuration support for more than 200 managed service
+  providers using Python, Go, Kafka, Redis, and CockroachDB.
+
+### Apka Shakti
+**Co-Founder & Software Lead · July 2025–Present**
+
+- Designed the end-to-end cloud architecture for HYDECO, a solar-powered
+  seawater desalination and cooling system.
+- Built a scalable IoT monitoring and alerting pipeline with AWS IoT Core,
+  Lambda, ECS, ELB, CloudWatch, Terraform, MQTT, ClickHouse, and Grafana.
+- Replaced local MATLAB computation with distributed cloud infrastructure,
+  improving scalability, reliability, and long-term cost efficiency.
+- Presented the technical vision to potential investors and identified
+  software commercialization opportunities.
 
 <img src="./.vuepress/public/cidarlab.png" style="float:right; height:80px;">
 
 ### CIDAR LAB
-May, 2020 - <br>
+May, 2020 - May, 2022<br>
 Undergraduate Research Assistant
 
 <strong>Description:</strong>
@@ -33,15 +69,18 @@ Undergraduate Research Assistant
 <img src="./.vuepress/public/hd.png" style="float:right; height:60px;">
 
 ### Human Dynamics 
-Jan, 2021 - <br>
+Jan, 2021 - May, 2021<br>
 Contributor
 
 
 <img src="./.vuepress/public/nona.jpg" style="float:right; height:120px;">
 
 ### Nona Research Foundation
-Feb, 2020 - <br>
+Feb, 2020 - Apr, 2021<br>
 Software Engineering Intern
+
+May, 2021 - Aug 2022<br>
+Fellow
 
 <strong>Description:</strong>
 
@@ -88,44 +127,41 @@ Software Engineering Member
 
 ## Skills
 ### Programming Languages
-<ul>
-    <li>C/C++</li>
-    <li>Java</li>
-    <li>Python</li>
-    <li>MATLAB</li>
-    <li>PHP</li>
-    <li>JavaScript</li>
-    <li>SQL</li>
-</ul>
+Java, Python, Go, C++, and JavaScript
 
-### Web/ Server Technologies
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>AWS ECR, ECS, EC2, Route 53</li>
-    <li>Docker</li>
-    <li>Tomcat</li>
-    <li>Flask</li>
-</ul>
+### Cloud, Data, and Distributed Systems
+AWS (IoT Core, Lambda, ECS, ELB, and CloudWatch), Kafka, Kubernetes, Docker,
+Terraform, GraphQL, MQTT, and Arduino
 
-### Database
-<ul>
-    <li>MongoDB</li>
-    <li>PostgreSQL</li>
-</ul>
+### Databases
+ClickHouse, Redis, CockroachDB, ArangoDB, MongoDB, and SQL
 
-### Operating Systems
-<ul>
-    <li>Mac OSX</li>
-    <li>Windows</li>
-    <li>Linus/ubuntu, debian, alpine</li>
-</ul>
+## Patent
 
+### Smart Fireplace Control System With Integrated Sensor and Accessory Control
+**Co-Inventor · Filed December 12, 2025**
 
+Designed a smart IoT system using ESP32, React Native, and Firebase for remote
+fireplace control, scheduling, and real-time environmental monitoring.
 
+## Awards
 
+### Oxford Energy Day – Highly Commended Poster Award
+**October 2025**
 
+Researched and prototyped a cloud-edge personalization system combining TinyML
+and online learning for adaptive air-conditioning control. The simulation
+improved energy efficiency by approximately 40% and temperature stability by
+approximately 90%.
 
+### HPE Aruba Hackathon 2023 Regional Winner – Third Place
+**August 2023**
 
+Prototyped an LSTM-based bug-triage system for categorizing, summarizing, and
+deduplicating bug reports, with planned Jira integration.
 
+### Boston University Senior Project Entrepreneurship Award
+**May 2022**
 
+Proposed Amadeus, a musician-matching app, and led a team of four building it
+with React Native, Java, Kafka, and Firebase.

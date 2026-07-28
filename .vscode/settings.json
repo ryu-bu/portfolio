@@ -1,0 +1,29 @@
+{
+  "emmet.includeLanguages": {
+    "markdown": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showExpandedAbbreviation": "always",
+  "emmet.showSuggestionsAsSnippets": true,
+  "editor.snippetSuggestions": "top",
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "other": "on",
+      "comments": "off",
+      "strings": "on"
+    }
+  },
+  "auto-close-tag.activationOnLanguage": [
+    "html",
+    "xml",
+    "php",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "jsx",
+    "tsx",
+    "vue",
+    "markdown"
+  ]
+}
