@@ -9,6 +9,40 @@ pipelines and real-time analytics systems that serve millions of network
 devices. My work spans IoT, applied AI, award-winning energy research, and a
 pending patent.
 
+## Patent
+
+### Smart Fireplace Control System With Integrated Sensor and Accessory Control
+**Co-Inventor · Filed December 12, 2025**
+
+Designed a smart IoT system using ESP32, React Native, and Firebase for remote
+fireplace control, scheduling, and real-time environmental monitoring.
+
+## Awards
+
+### Oxford Energy Day – Highly Commended Poster Award
+<a href="/portfolio/oxford_ai_poster.pdf" target="_blank" rel="noopener noreferrer" style="float:right; width:220px; margin:0 0 1rem 1.5rem;">
+<img src="./.vuepress/public/oxford_ai_poster.png" alt="Oxford Energy Day poster preview" style="display:block; width:220px; height:auto;">
+</a>
+
+**October 2025**
+
+Researched and prototyped a cloud-edge personalization system combining TinyML
+and online learning for adaptive air-conditioning control. The simulation
+improved energy efficiency by approximately 40% and temperature stability by
+approximately 90%.
+
+### HPE Aruba Hackathon 2023 Regional Winner – Third Place
+**August 2023**
+
+Prototyped an LSTM-based bug-triage system for categorizing, summarizing, and
+deduplicating bug reports, with planned Jira integration.
+
+### Boston University Senior Project Entrepreneurship Award
+**May 2022**
+
+Proposed Amadeus, a musician-matching app, and led a team of four building it
+with React Native, Java, Kafka, and Firebase.
+
 ## Timeline
 <PortfolioTimeline />
 
@@ -135,33 +169,3 @@ Terraform, GraphQL, MQTT, and Arduino
 
 ### Databases
 ClickHouse, Redis, CockroachDB, ArangoDB, MongoDB, and SQL
-
-## Patent
-
-### Smart Fireplace Control System With Integrated Sensor and Accessory Control
-**Co-Inventor · Filed December 12, 2025**
-
-Designed a smart IoT system using ESP32, React Native, and Firebase for remote
-fireplace control, scheduling, and real-time environmental monitoring.
-
-## Awards
-
-### Oxford Energy Day – Highly Commended Poster Award
-**October 2025**
-
-Researched and prototyped a cloud-edge personalization system combining TinyML
-and online learning for adaptive air-conditioning control. The simulation
-improved energy efficiency by approximately 40% and temperature stability by
-approximately 90%.
-
-### HPE Aruba Hackathon 2023 Regional Winner – Third Place
-**August 2023**
-
-Prototyped an LSTM-based bug-triage system for categorizing, summarizing, and
-deduplicating bug reports, with planned Jira integration.
-
-### Boston University Senior Project Entrepreneurship Award
-**May 2022**
-
-Proposed Amadeus, a musician-matching app, and led a team of four building it
-with React Native, Java, Kafka, and Firebase.
